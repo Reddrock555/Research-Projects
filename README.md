@@ -9,7 +9,7 @@ Welcome to my collection of research papers, projects, and presentations. This r
 - [Impact of Trade and Other Variables on GDP Growth Rate Determinants](https://github.com/Reddrock555/Research-Projects/blob/Presentation-and-projects/Impact%20of%20Trade%20and%20other%20variables%20on%20GDP%20growth%20rate.pdf)
 - [The Impact of Monetary Policies on Economic Inequality in the U.S. (An Empirical Study)](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Research_Paper%20(2).pdf)
 - [StockTrak Project: Profit Through IPOs](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Stocktrak.pptx)
-- [Credit Scoring Model: Predicting Creditworthiness Using Machine Learning](#)
+- [Credit Scoring Model: Predicting Creditworthiness Using Machine Learning](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Credit_Scoring_Model.pdf)
 
 ---
 
