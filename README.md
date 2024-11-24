@@ -9,8 +9,44 @@ Welcome to my collection of research papers, projects, and presentations. This r
 - [Impact of Trade and Other Variables on GDP Growth Rate Determinants](https://github.com/Reddrock555/Research-Projects/blob/Presentation-and-projects/Impact%20of%20Trade%20and%20other%20variables%20on%20GDP%20growth%20rate.pdf)
 - [The Impact of Monetary Policies on Economic Inequality in the U.S. (An Empirical Study)](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Research_Paper%20(2).pdf)
 - [StockTrak Project: Profit Through IPOs](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Stocktrak.pptx)
+- [Credit Scoring Model: Predicting Creditworthiness Using Machine Learning](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Credit_Scoring_Model.pdf)
 
 ---
+
+## Credit Scoring Model: Predicting Creditworthiness Using Machine Learning
+
+This project involves developing a machine learning model for credit scoring, designed to predict creditworthiness based on a range of socio-economic and financial features. The model uses historical data on income, debt levels, payment behavior, and employment status to assess the likelihood of loan default. By training a neural network on these data points, the model is capable of assigning a probability score indicating whether an individual is creditworthy.
+## Overview
+
+The project uses **TensorFlow** and **Keras** to build a feedforward neural network that takes into account key features such as income level, debt-to-income ratio, payment behavior, and employment status. The model is trained on a dataset with 21 input features and outputs a probability score for determining creditworthiness.
+
+## Features
+
+- **Input Features:** The model accepts 21 features, including but not limited to:
+  - Income level
+  - Debt-to-income ratio
+  - Employment status
+  - Payment behavior history
+- **Binary Classification:** The model classifies applicants as either creditworthy (1) or non-creditworthy (0).
+- **Neural Network Architecture:** Fully connected feedforward network with multiple hidden layers and a sigmoid output layer for probability estimation.
+- **Evaluation Metrics:** Accuracy, Precision, Recall, and F1 Score.
+- **Regularization:** Dropout layers and L2 regularization to avoid overfitting.
+
+## Requirements
+
+To run the model, you'll need the following Python packages:
+
+- TensorFlow
+- Keras
+- NumPy
+- Pandas
+- Matplotlib (optional, for visualizations)
+- Scikit-learn
+
+You can install the required packages via `pip`:
+
+```bash
+pip install tensorflow pandas numpy scikit-learn matplotlib
 
 ## Bayesian Approach to Finance and Stock Markets
 
