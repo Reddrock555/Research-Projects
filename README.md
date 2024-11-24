@@ -48,6 +48,8 @@ You can install the required packages via `pip`:
 ```bash
 pip install tensorflow pandas numpy scikit-learn matplotlib
 
+---
+
 ## Bayesian Approach to Finance and Stock Markets
 
 This paper explores the application of Bayesian methods to model stock returns and predict market trends, accounting for uncertainty in financial decision-making. It demonstrates how these techniques can be integrated into financial analysis.
