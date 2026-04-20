@@ -101,3 +101,20 @@ Feel free to explore the various studies and projects, and feel free to reach ou
 **Contact Information**:
 - Email: [dongreaman33@gmail.com](mailto:dongreaman33@gmail.com)
 - LinkedIn: [www.linkedin.com/in/aman-dongre-b6a192238](https://www.linkedin.com/in/aman-dongre-b6a192238)
+
+## St. Louis Crime Rate Regression and Statistical Analysis
+This project utilizes R to perform an empirical statistical analysis and linear regression modeling of 2021 St. Louis crime data. By evaluating specific offenses against the city's overall crime rate, the analysis identifies the primary variables driving urban crime metrics and evaluates their statistical significance using multiple linear regression and normality tests.
+
+**Key Focus**: Empirical data analysis, multiple linear regression, exploratory data analysis (EDA).
+**Key Tools**: R, RStudio, statistical modeling (ANOVA, Shapiro-Wilk testing).
+
+## Conclusion
+This repository highlights my most significant academic and applied work in finance, economics, and data analysis. Each project reflects my dedication to bridging theory and practice in understanding financial markets and economic policies.
+
+Feel free to explore the various studies and projects, and feel free to reach out with any questions or feedback.
+
+## Contact Information:
+
+Email: dongreaman33@gmail.com
+
+LinkedIn: www.linkedin.com/in/aman-dongre-b6a192238
