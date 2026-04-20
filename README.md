@@ -10,8 +10,7 @@ Welcome to my collection of research papers, projects, and presentations. This r
 - [The Impact of Monetary Policies on Economic Inequality in the U.S. (An Empirical Study)](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Research_Paper%20(2).pdf)
 - [StockTrak Project: Profit Through IPOs](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Stocktrak.pptx)
 - [Credit Scoring Model: Predicting Creditworthiness Using Machine Learning](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Credit_Scoring_Model_1.pdf)
-
----
+-[https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Aman_Dongre_St_Louis_Crime_Analysis_R_Project.pdf]
 
 ## Credit Scoring Model: Predicting Creditworthiness Using Machine Learning
 
@@ -107,7 +106,7 @@ This project utilizes R to perform an empirical statistical analysis and linear 
 
 **Key Focus**: Empirical data analysis, multiple linear regression, exploratory data analysis (EDA).
 **Key Tools**: R, RStudio, statistical modeling (ANOVA, Shapiro-Wilk testing).
-
+[https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Aman_Dongre_St_Louis_Crime_Analysis_R_Project.pdf]
 ## Conclusion
 This repository highlights my most significant academic and applied work in finance, economics, and data analysis. Each project reflects my dedication to bridging theory and practice in understanding financial markets and economic policies.
 
