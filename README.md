@@ -9,17 +9,22 @@ Welcome to my collection of research papers, projects, and presentations. This r
 - [Impact of Trade and Other Variables on GDP Growth Rate Determinants](https://github.com/Reddrock555/Research-Projects/blob/Presentation-and-projects/Impact%20of%20Trade%20and%20other%20variables%20on%20GDP%20growth%20rate.pdf)
 - [The Impact of Monetary Policies on Economic Inequality in the U.S. (An Empirical Study)](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Research_Paper%20(2).pdf)
 - [StockTrak Project: Profit Through IPOs](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Stocktrak.pptx)
-- [Credit Scoring Model: Predicting Creditworthiness Using Machine Learning](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Credit_Scoring_Model_1.pdf)
+- [Credit Scoring Model: Predicting Creditworthiness Using Machine Learning](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Aman_Dongre_Credit_Risk_AI_Model.pdf)
 - [St_Louis_Crime_Analysis_R_Project](https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Aman_Dongre_St_Louis_Crime_Analysis_R_Project.pdf)
 
 ## Credit Scoring Model: Predicting Creditworthiness Using Machine Learning
 
-This project involves developing a machine learning model for credit scoring, designed to predict creditworthiness based on a range of socio-economic and financial features. The model uses historical data on income, debt levels, payment behavior, and employment status to assess the likelihood of loan default. By training a neural network on these data points, the model is capable of assigning a probability score indicating whether an individual is creditworthy.
+This project involves developing a machine learning model for credit scoring, designed to predict creditworthiness based on a range of socio-economic and financial features. The model uses historical data on income, debt levels, payment behavior, and employment status to assess the likelihood of loan default. By training a neural network on these data points, the model is capable of assigning a probability score indicating whether an individual is creditworthy.  
 
-- **Key Focus**: Credit scoring, machine learning, financial modeling.
-- **Key Tools**: Python, TensorFlow, Keras, Pandas, Scikit-learn.
-- **Dataset**: The dataset used for this model includes various financial features such as payment history, income levels, debt-to-income ratios, and employment status.
-- **Model Type**: A fully connected feedforward neural network with multiple hidden layers, using binary classification.
+- **Key Focus**: Credit scoring, risk assessment, machine learning, financial modeling.  
+
+- **Key Tools**: Python, TensorFlow, Keras, Pandas, Scikit-learn.  
+
+- **Dataset**: The dataset includes 21 distinct socio-economic and financial features. Quantitative analysis revealed that payment behavior is the most influential predictor of overarching credit risk.
+
+- **Model Type**: A fully connected feedforward neural network optimized for binary classification, utilizing Dropout layers and Early Stopping to achieve an 86.6 percent predictive accuracy rate.
+
+  [https://github.com/Reddrock555/Research-Projects/blob/Reddrock555-Latex%2C-Python-and-Bayesian-Analysis/Aman_Dongre_Credit_Risk_AI_Model.pdf]
 
 ---
 
